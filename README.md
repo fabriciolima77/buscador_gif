@@ -1,4 +1,4 @@
-# buscador de gif
+# Buscador de GIF
 
 Um aplicativo feito em flutter para buscar e compartilhar GIFS consumindo a API do site GIPHY.
 Para a construção desse projeto segui as orientações do curso da Udemy "Criação de Apps Android/iOS/Web com Flutter - 4 cursos em 1"
