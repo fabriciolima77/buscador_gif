@@ -7,9 +7,9 @@ Para a construção desse projeto segui as orientações do curso da Udemy "Cria
 ## 🖼️ Imagens
 
  <div>
-    <img alt="print1" title="#Print 1" src="./images/print1.jpg" />
-    <img alt="print2" title="#Print 2" src="./images/print2.jpg" />
-    <img alt="print3" title="#Print 3" src="./images/print3.jpg" />
+    <img alt="print1" title="#Print 1" src="./images/print1.jpg" width="270" height="529,5"/>
+    <img alt="print2" title="#Print 2" src="./images/print2.jpg" width="270" height="529,5"/>
+    <img alt="print3" title="#Print 3" src="./images/print3.jpg" width="270" height="529,5"/>
  </div>
 
 ### ⚙ Features
